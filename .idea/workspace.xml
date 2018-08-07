@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be9596b4-e22e-4164-9c22-d0b4d9839584" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Atomic/AtomicExample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atomic/AtomicExample3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Atomic/AtomicExample4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atomic/AtomicExample4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Atomic/AtomicExample5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atomic/AtomicExample5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Atomic/AtomicExample6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atomic/AtomicExample6.java" afterDir="false" />
-    </list>
+    <list default="true" id="be9596b4-e22e-4164-9c22-d0b4d9839584" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,20 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CountDownLatchExample2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AQS/CountDownLatchExample2.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="CyclicBarrierExample1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AQS/CyclicBarrierExample1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CyclicBarrierExample3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AQS/CyclicBarrierExample3.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -41,9 +21,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AtomicExample1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AtomicExample1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Atomic/AtomicExample1.java">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="AtomicExample3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Atomic/AtomicExample3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AtomicExample5.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Atomic/AtomicExample5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="FutureExample.java" pinned="false" current-in-tab="false">
@@ -154,12 +152,6 @@
               <item name="concurrency" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="concurrency" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Atomic" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -246,15 +238,16 @@
       <option name="presentableId" value="Default" />
       <updated>1533353384290</updated>
       <workItem from="1533353387690" duration="102000" />
-      <workItem from="1533567811496" duration="236000" />
+      <workItem from="1533567811496" duration="466000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="338000" />
+    <option name="totallyTimeSpent" value="568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -433,6 +426,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Atomic/AtomicExample1.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Atomic/AtomicExample3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Atomic/AtomicExample5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

@@ -1,4 +1,4 @@
-package com.mmall.concurrency.example.singleton;
+package Singleton;
 
 import com.mmall.concurrency.annoations.Recommend;
 import com.mmall.concurrency.annoations.ThreadSafe;
