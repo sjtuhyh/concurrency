@@ -120,7 +120,7 @@
             <path>
               <item name="concurrency" type="b2602c69:ProjectViewProjectNode" />
               <item name="concurrency" type="462c0819:PsiDirectoryNode" />
-              <item name="Lock" type="462c0819:PsiDirectoryNode" />
+              <item name="img-folder" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,11 +145,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img-folder" />
       <recent name="$PROJECT_DIR$/Lock" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/Singleton" />
       <recent name="$PROJECT_DIR$/src/Atomic" />
-      <recent name="$PROJECT_DIR$/src/AQS" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -220,16 +220,15 @@
       <workItem from="1533353387690" duration="102000" />
       <workItem from="1533567811496" duration="466000" />
       <workItem from="1533621984415" duration="195000" />
-      <workItem from="1533797402689" duration="252000" />
+      <workItem from="1533797402689" duration="514000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1015000" />
+    <option name="totallyTimeSpent" value="1277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -589,7 +588,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
