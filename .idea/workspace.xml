@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be9596b4-e22e-4164-9c22-d0b4d9839584" name="Default" comment="" />
+    <list default="true" id="be9596b4-e22e-4164-9c22-d0b4d9839584" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/SyncCollection/CollectionsExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SyncCollection/CollectionsExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SyncCollection/CollectionsExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SyncCollection/HashTableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SyncCollection/VectorExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SyncCollection/VectorExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SyncCollection/VectorExample3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,29 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AtomicExample1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atomic/AtomicExample1.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="AtomicExample3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atomic/AtomicExample3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AtomicExample5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Atomic/AtomicExample5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SingletonExample1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Singleton/SingletonExample1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -63,8 +49,37 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="LockExample2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LockExample2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lock/LockExample2.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadPoolExample1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThreadPool/ThreadPoolExample1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RequestHolder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThreadLocal/RequestHolder.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="CollectionsExample1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SyncCollection/CollectionsExample1.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="HashTableExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SyncCollection/HashTableExample.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="CollectionsExample2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SyncCollection/CollectionsExample2.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -110,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,15 +136,14 @@
             <path>
               <item name="concurrency" type="b2602c69:ProjectViewProjectNode" />
               <item name="concurrency" type="462c0819:PsiDirectoryNode" />
-              <item name="img-folder" type="462c0819:PsiDirectoryNode" />
+              <item name="SyncCollection" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,11 +160,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SyncCollection" />
+      <recent name="$PROJECT_DIR$/ThreadLocal" />
+      <recent name="$PROJECT_DIR$/ThreadPool" />
       <recent name="$PROJECT_DIR$/img-folder" />
       <recent name="$PROJECT_DIR$/Lock" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/Singleton" />
-      <recent name="$PROJECT_DIR$/src/Atomic" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -221,14 +236,17 @@
       <workItem from="1533567811496" duration="466000" />
       <workItem from="1533621984415" duration="195000" />
       <workItem from="1533797402689" duration="514000" />
+      <workItem from="1534085608403" duration="279000" />
+      <workItem from="1534118875290" duration="73000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1277000" />
+    <option name="totallyTimeSpent" value="1629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -266,23 +284,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AQS/CyclicBarrierExample3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atomic/AtomicExample1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atomic/AtomicExample3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Atomic/AtomicExample5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -290,41 +291,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/FutureExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/ForkJoinTaskExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AQS/FutureExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/ForkJoinTaskExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample3.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample1.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample4.java" />
     <entry file="file://$PROJECT_DIR$/Singleton/SingletonExample1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -332,13 +303,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/CyclicBarrierExample3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AQS/CyclicBarrierExample3.java" />
     <entry file="file://$PROJECT_DIR$/Atomic/AtomicExample1.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -349,48 +314,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/FutureExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/ForkJoinTaskExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/FutureTaskExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AQS/FutureExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/ForkJoinTaskExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/FutureTaskExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample3.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample1.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample4.java" />
     <entry file="file://$PROJECT_DIR$/Atomic/AtomicExample5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -398,139 +327,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/CountDownLatchExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/CountDownLatchExample2.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/CyclicBarrierExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/FutureExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/ForkJoinTaskExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/FutureTaskExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/CyclicBarrierExample3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/CountDownLatchExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/CountDownLatchExample2.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/CyclicBarrierExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/FutureTaskExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/FutureExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/ForkJoinTaskExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AQS/CountDownLatchExample1.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/CountDownLatchExample2.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/CyclicBarrierExample1.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/FutureExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/ForkJoinTaskExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/FutureTaskExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample3.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample1.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample4.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/CyclicBarrierExample3.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/CountDownLatchExample1.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/CountDownLatchExample2.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/CyclicBarrierExample1.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/FutureTaskExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample4.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample3.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample1.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/FutureExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/AQS/ForkJoinTaskExample.java" />
     <entry file="file://$PROJECT_DIR$/src/Atomic.java" />
-    <entry file="file://$PROJECT_DIR$/src/AQS/CyclicBarrierExample3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AQS/CyclicBarrierExample3.java" />
     <entry file="file://$PROJECT_DIR$/Atomic/AtomicExample1.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -571,6 +388,25 @@
     <entry file="file://$PROJECT_DIR$/Lock/LockExample2.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/ThreadPool/ThreadPoolExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThreadLocal/RequestHolder.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SyncCollection/CollectionsExample2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SyncCollection/CollectionsExample1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SyncCollection/HashTableExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -588,7 +424,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
