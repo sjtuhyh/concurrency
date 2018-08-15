@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be9596b4-e22e-4164-9c22-d0b4d9839584" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/SyncCollection/CollectionsExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SyncCollection/CollectionsExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SyncCollection/CollectionsExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SyncCollection/HashTableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SyncCollection/VectorExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SyncCollection/VectorExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SyncCollection/VectorExample3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="be9596b4-e22e-4164-9c22-d0b4d9839584" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,24 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SingletonExample1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Singleton/SingletonExample1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FutureExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AQS/FutureExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ForkJoinTaskExample.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AQS/ForkJoinTaskExample.java">
           <provider selected="true" editor-type-id="text-editor" />
@@ -73,8 +46,18 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="HashTableExample.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HashTableExample.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SyncCollection/HashTableExample.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="DeadLock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Deadlock/DeadLock.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ConcurrentHashMapExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Concurrent/ConcurrentHashMapExample.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -120,12 +103,14 @@
     <option name="width" value="1405" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,16 +118,12 @@
               <item name="concurrency" type="b2602c69:ProjectViewProjectNode" />
               <item name="concurrency" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="concurrency" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
-              <item name="SyncCollection" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -156,15 +137,15 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Concurrent" />
+      <recent name="$PROJECT_DIR$/Deadlock" />
       <recent name="$PROJECT_DIR$/SyncCollection" />
       <recent name="$PROJECT_DIR$/ThreadLocal" />
       <recent name="$PROJECT_DIR$/ThreadPool" />
-      <recent name="$PROJECT_DIR$/img-folder" />
-      <recent name="$PROJECT_DIR$/Lock" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -238,15 +219,15 @@
       <workItem from="1533797402689" duration="514000" />
       <workItem from="1534085608403" duration="279000" />
       <workItem from="1534118875290" duration="73000" />
+      <workItem from="1534205708099" duration="350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1629000" />
+    <option name="totallyTimeSpent" value="1979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -284,14 +265,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Atomic/AtomicExample5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/FutureExample.java" />
     <entry file="file://$PROJECT_DIR$/src/AQS/ForkJoinTaskExample.java" />
     <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample3.java" />
     <entry file="file://$PROJECT_DIR$/src/AQS/SemaphoreExample1.java" />
@@ -405,6 +378,12 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/SyncCollection/HashTableExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deadlock/DeadLock.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrent/ConcurrentHashMapExample.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
