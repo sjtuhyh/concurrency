@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be9596b4-e22e-4164-9c22-d0b4d9839584" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CommonUnsafe/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CommonUnsafe/DateFormatExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CommonUnsafe/DateFormatExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CommonUnsafe/DateFormatExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CommonUnsafe/HashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CommonUnsafe/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CommonUnsafe/StringExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CommonUnsafe/StringExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sync/SynchronizedExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sync/SynchronizedExample2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,21 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RequestHolder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ThreadLocal/RequestHolder.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="CollectionsExample1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SyncCollection/CollectionsExample1.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="HashTableExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SyncCollection/HashTableExample.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="DeadLock.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Deadlock/DeadLock.java">
           <provider selected="true" editor-type-id="text-editor" />
@@ -62,13 +41,28 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="DateFormatExample2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DateFormatExample2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CommonUnsafe/DateFormatExample2.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="CollectionsExample2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SyncCollection/CollectionsExample2.java">
+      <file leaf-file-name="Escape.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Publish/Escape.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="SynchronizedExample1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sync/SynchronizedExample1.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="SynchronizedExample2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sync/SynchronizedExample2.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="UnsafePublish.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Publish/UnsafePublish.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -117,9 +111,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,12 +121,15 @@
             <path>
               <item name="concurrency" type="b2602c69:ProjectViewProjectNode" />
               <item name="concurrency" type="462c0819:PsiDirectoryNode" />
-              <item name="CommonUnsafe" type="462c0819:PsiDirectoryNode" />
+              <item name="Sync" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,11 +146,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Sync" />
+      <recent name="$PROJECT_DIR$/Publish" />
       <recent name="$PROJECT_DIR$/CommonUnsafe" />
       <recent name="$PROJECT_DIR$/Count" />
       <recent name="$PROJECT_DIR$/Immutable" />
-      <recent name="$PROJECT_DIR$/Concurrent" />
-      <recent name="$PROJECT_DIR$/Deadlock" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -234,11 +228,13 @@
       <workItem from="1534325123930" duration="132000" />
       <workItem from="1534387407710" duration="49000" />
       <workItem from="1534509515501" duration="60000" />
+      <workItem from="1534739536364" duration="60000" />
+      <workItem from="1535337067003" duration="53000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2220000" />
+    <option name="totallyTimeSpent" value="2333000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -280,24 +276,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Singleton/SingletonExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AQS/CyclicBarrierExample3.java" />
-    <entry file="file://$PROJECT_DIR$/Atomic/AtomicExample1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Atomic/AtomicExample3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AQS/FutureExample.java" />
     <entry file="file://$PROJECT_DIR$/src/AQS/ForkJoinTaskExample.java" />
     <entry file="file://$PROJECT_DIR$/src/AQS/FutureTaskExample.java" />
@@ -407,6 +385,18 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/CommonUnsafe/DateFormatExample2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Publish/UnsafePublish.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Publish/Escape.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sync/SynchronizedExample1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sync/SynchronizedExample2.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
